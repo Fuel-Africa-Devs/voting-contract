@@ -1,0 +1,7 @@
+[project]
+authors = ["thefirstelder"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "voting_system"
+
+[dependencies]
